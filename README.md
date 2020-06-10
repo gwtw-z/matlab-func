@@ -1,1 +1,1 @@
-matlab-func
+matlab-function
